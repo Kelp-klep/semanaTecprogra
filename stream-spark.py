@@ -41,7 +41,7 @@ st.title("A01738068")
 st.header("spark-submit Job")
 
 github_user  =  st.text_input('Github user', value='Kelp-klep')
-github_repo  =  st.text_input('Github repo', value='semanaTecjupah')
+github_repo  =  st.text_input('Github repo', value='semanaTecprogra')
 spark_job    =  st.text_input('Spark job', value='spark')
 github_token =  st.text_input('Github token', value='***')
 
